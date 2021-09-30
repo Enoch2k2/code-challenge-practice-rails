@@ -45,3 +45,5 @@ NOTE: No other routes / requests should exist.
 ### Validations
 * Item
   * Name should be present and unique
+* Cart Item
+  * Quantity should be present
