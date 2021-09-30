@@ -41,3 +41,7 @@ This sounds like a lot. But we are only focused on the backend. Not the front en
 
 
 NOTE: No other routes / requests should exist.
+
+### Validations
+* Item
+  * Name should be present and unique
